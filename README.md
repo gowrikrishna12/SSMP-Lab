@@ -1,1 +1,1 @@
-# SSMP-Lab
+Programs of SSMP lab using C
